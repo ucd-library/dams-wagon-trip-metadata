@@ -47,7 +47,6 @@
     "@id": "http://rightsstatements.org/vocab/UND/1.0/"
   },
   "schema:name": "Wagon Trip from California to Oregon",
-  "schema:publisher": "UC Davis Library, Archives and Special Collections",
   "schema:sdDatePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "2025"
