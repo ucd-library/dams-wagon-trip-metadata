@@ -1,0 +1,92 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1037841",
+    "http://schema.org/name": "Nineteenth century"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1243255",
+    "http://schema.org/name": "West United States"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1145551",
+    "http://schema.org/name": "Teenagers"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1692691",
+    "http://schema.org/name": "Western Oregon"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214190",
+    "http://schema.org/name": "California--Yolo County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1308988",
+    "http://schema.org/name": "California--Yosemite National Park"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1692699",
+    "http://schema.org/name": "Washington (State), Eastern"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204579",
+    "http://schema.org/name": "Oregon"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1241613",
+    "http://schema.org/name": "Alberta--Banff National Park"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1155558",
+    "http://schema.org/name": "Travel"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1204928",
+    "http://schema.org/name": "California"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1176568",
+    "http://schema.org/name": "Women"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1206576",
+    "http://schema.org/name": "California--Stockton"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1423794",
+    "http://schema.org/name": "Diaries"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/532076",
+    "http://schema.org/name": "University of California, Los Angeles"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1214200",
+    "http://schema.org/name": "California--Sacramento County"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/00799558",
+    "http://schema.org/name": "African Americans"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1205660",
+    "http://schema.org/name": "Nevada"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/1685275",
+    "http://schema.org/name": "Michael and Margaret B. Harrison Western Research Center"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/01240455",
+    "http://schema.org/name": "Arizona--Grand Canyon"
+  }
+]
