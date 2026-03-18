@@ -36,6 +36,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
     "@value": "1880"
   },
+  "schema:temporal": "April, 12 1880 - June 17, 1880",
   "schema:identifier": [
     "MC-340",
     "ark:/87293/d3tb0z37n"

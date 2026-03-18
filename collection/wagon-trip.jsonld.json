@@ -31,8 +31,8 @@
     }
   ],
   "schema:datePublished": {
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2026"
+    "@type": "http://www.w3.org/2001/XMLSchema#date",
+    "@value": "2026-03-19"
   },
   "schema:description": "A unique firsthand travel account recorded by at least two members of a traveling party on a journey through the wilds of the West Coast from southern California to west-central Oregon, recorded over the course of three months in 1880.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8q81mtc)",
   "schema:identifier": [
