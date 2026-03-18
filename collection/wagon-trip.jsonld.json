@@ -32,22 +32,20 @@
   ],
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "2025"
+    "@value": "2026"
   },
-  "schema:description": "A unique firsthand travel account recorded by at least two
-members of a traveling party on a journey through the wilds of the West Coast from southern California to west-central Oregon, recorded over the course of three months in 1880.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8q81mtc)",
+  "schema:description": "A unique firsthand travel account recorded by at least two members of a traveling party on a journey through the wilds of the West Coast from southern California to west-central Oregon, recorded over the course of three months in 1880.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8q81mtc)",
   "schema:identifier": [
     "MC-340",
     "ark:/87293/d3z31nx2g"
   ],
   "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d3z31nx2g/media/images/MC-340_0001.tif"
+    "@id": "info:fedora/item/ark:/87293/d3tb0z37n/media/images/MC-340_0001.tif"
   },
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Diary Documenting a Wagon Trip from California to Oregon in 1880, April
-12, 1880 - June 17, 1880",
+  "schema:name": "Diary Documenting a Wagon Trip from California to Oregon in 1880, April 12, 1880 - June 17, 1880",
   "schema:publisher": [
     "UC Davis Library, Archives and Special Collections",
     {
