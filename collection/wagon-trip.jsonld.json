@@ -34,7 +34,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#date",
     "@value": "2026-03-19"
   },
-  "schema:description": "A unique firsthand travel account recorded by at least two members of a traveling party on a journey through the wilds of the West Coast from southern California to west-central Oregon, recorded over the course of three months in 1880.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8q81mtc)",
+  "schema:description": "A firsthand travel account recorded by at least two members of a traveling party on a journey through the West Coast from southern California to west-central Oregon, recorded over the course of three months in 1880. The two principal writers are most likely Joe H. Whiting and Sarah Mundell, who both sign an introductory preface. Their account encompasses dozens of locations across California and the southern half of Oregon between April 12 and June 27, 1880, and is written in at least two distinct hands.\n\n The finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8q81mtc)",
   "schema:identifier": [
     "MC-340",
     "ark:/87293/d3z31nx2g"
@@ -45,7 +45,7 @@
   "schema:license": {
     "@id": "https://rightsstatements.org/vocab/NoC-NC/1.0/"
   },
-  "schema:name": "Diary Documenting a Wagon Trip from California to Oregon, April 12, 1880 - June 17, 1880",
+  "schema:name": "Mundell (Sarah) and Whiting (J.H.) Diary.",
   "schema:publisher": [
     "UC Davis Library, Archives and Special Collections",
     {
