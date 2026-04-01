@@ -42,7 +42,7 @@
     "ark:/87293/d3tb0z37n"
   ],
   "schema:image": {
-    "@id": "info:fedora/ark:/87293/d3tb0z37n/media/images/MC-340_0001.tif"
+    "@id": "@base:/media/images/MC-340_0001.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
